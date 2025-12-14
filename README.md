@@ -1,4 +1,2 @@
 # Markov-Chains-Music-Player
-This is a music player made to randomly generate simple songs. Note-based decisions are based on a second-order Markov Chain built using a first-order Markov Chain as reference.
-
-THIS IS MY CODE & INTELLECTUAL PROPERTY. I WILL SEEK LEGAL ACTION IN THE EVENT THAT IT IS USED WITHOUT MY PERMISSION.
+This was a project made for EE305: Applied Probability for Engineers. Due to that fact, no code is featured in this repository as that would violate SUNY Buffalo's Academic Integrity Policy. This repo will contain a manual on Markov chains created by me, and how similar projects can be implemented by others!
